@@ -1,0 +1,135 @@
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://21.0.12.194:3000
+   - Environments: .env
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 1854ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4.8s (764 modules)
+ GET / 200 in 5208ms
+ GET / 200 in 72ms
+ GET / 200 in 39ms
+ GET / 200 in 32ms
+ GET / 200 in 47ms
+ GET / 200 in 40ms
+   Reload env: .env
+ ✓ Compiled in 2.7s (764 modules)
+ GET / 200 in 143ms
+ GET / 200 in 43ms
+ GET / 200 in 45ms
+ GET / 200 in 52ms
+ ✓ Compiled in 1981ms (970 modules)
+ ✓ Compiled in 287ms (984 modules)
+ GET / 200 in 291ms
+ ✓ Compiled in 417ms (984 modules)
+ GET / 200 in 204ms
+ ✓ Compiled in 500ms (984 modules)
+ GET / 200 in 116ms
+ ✓ Compiled in 336ms (457 modules)
+ ✓ Compiled / in 297ms (527 modules)
+ GET / 200 in 555ms
+ ✓ Compiled in 276ms (457 modules)
+ ✓ Compiled / in 113ms (527 modules)
+ GET / 200 in 325ms
+ ✓ Compiled in 305ms (984 modules)
+ GET / 200 in 121ms
+ GET / 200 in 48ms
+ ✓ Compiled in 266ms (984 modules)
+ GET / 200 in 113ms
+ ✓ Compiled in 221ms (984 modules)
+ ✓ Compiled in 263ms (984 modules)
+ ✓ Compiled in 212ms (984 modules)
+ ✓ Compiled in 230ms (984 modules)
+ GET / 200 in 115ms
+ ○ Compiling /signup ...
+ ✓ Compiled /signup in 940ms (977 modules)
+ GET /signup 200 in 1025ms
+ GET /signup 200 in 18ms
+ ✓ Compiled / in 111ms (540 modules)
+ GET / 200 in 292ms
+ GET /signup 200 in 16ms
+ ✓ Compiled /login in 439ms (1000 modules)
+ GET /login 200 in 490ms
+ GET / 200 in 22ms
+ ○ Compiling /symptoms ...
+ ✓ Compiled /insights in 6.4s (2313 modules)
+ GET /insights 200 in 2738ms
+ GET /symptoms 200 in 6559ms
+ GET /pregnancy 200 in 4446ms
+ ○ Compiling /period ...
+ ✓ Compiled /period in 2.5s (3081 modules)
+ GET /pregnancy 200 in 1772ms
+ GET /period 200 in 15ms
+ GET / 200 in 63ms
+ GET /period 200 in 55ms
+ GET /symptoms 200 in 17ms
+ GET /pregnancy 200 in 14ms
+ GET /insights 200 in 20ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 963ms (2042 modules)
+ GET /profile 404 in 1043ms
+ GET /profile 404 in 124ms
+ ✓ Compiled / in 105ms (528 modules)
+ GET / 200 in 286ms
+ ✓ Compiled /insights in 477ms (548 modules)
+ GET /insights 200 in 520ms
+ ○ Compiling /subscription ...
+ ✓ Compiled /subscription in 1202ms (2105 modules)
+ GET /subscription 200 in 1255ms
+ ○ Compiling /period ...
+ ✓ Compiled /period in 820ms (1044 modules)
+ GET /period 200 in 884ms
+ ○ Compiling /symptoms ...
+ ✓ Compiled /symptoms in 744ms (1562 modules)
+ GET /symptoms 200 in 830ms
+ ✓ Compiled /pregnancy in 354ms (1569 modules)
+ GET /pregnancy 200 in 413ms
+ ✓ Compiled /subscription in 267ms (1579 modules)
+ GET /subscription 200 in 312ms
+ ○ Compiling / ...
+ ✓ Compiled / in 851ms (527 modules)
+ GET / 200 in 1057ms
+ GET / 200 in 47ms
+ GET / 200 in 43ms
+ GET / 200 in 45ms
+ GET / 200 in 53ms
+ GET / 200 in 51ms
+ GET / 200 in 44ms
+ GET / 200 in 41ms
+ GET / 200 in 48ms
+ GET / 200 in 44ms
+ GET / 200 in 41ms
+ GET / 200 in 44ms
+ GET / 200 in 44ms
+ GET / 200 in 41ms
+ GET / 200 in 41ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 781ms (1962 modules)
+ GET /profile 404 in 895ms
+ GET /profile 404 in 124ms
+ ✓ Compiled / in 142ms (528 modules)
+ GET / 200 in 379ms
+ ✓ Compiled /period in 175ms (1026 modules)
+ GET /period 200 in 392ms
+ GET / 200 in 51ms
+ GET /period 200 in 54ms
+ ○ Compiling /insights ...
+ ✓ Compiled /insights in 1038ms (1040 modules)
+ GET /insights 200 in 1114ms
+ GET / 200 in 131ms
+ GET / 200 in 41ms
+ GET / 200 in 39ms
+ GET / 200 in 41ms
+ GET / 200 in 40ms
+ GET / 200 in 41ms
+ GET / 200 in 37ms
+ GET / 200 in 40ms
+ GET / 200 in 53ms
+ GET / 200 in 42ms
+ GET / 200 in 43ms
